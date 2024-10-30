@@ -116,4 +116,4 @@ function mostCommonLetter() {
   });
 }
 
-console.log(mostCommonLetter());
+
